@@ -1,0 +1,13 @@
+#background{
+    background-color: #a057db;
+    color: white;
+}
+
+.section-style{
+    align-items: center ;
+    background-color: #db83ef;
+}
+.cropped{
+    width: 20%;
+    border-radius: 50%;
+}
