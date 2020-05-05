@@ -1,13 +1,27 @@
 #background{
-    background-color: #a057db;
-    color: white;
 }
 
-.section-style{
-    align-items: center ;
-    background-color: #db83ef;
+body{
+    margin: 0;
+    background-color: #e6a6f5;
+    color: white;
+    display: flex;
+    height: 100%;
 }
-.cropped{
+
+#section-style-1{
+    background-color: #a057db;
     width: 20%;
+    flex: 1;
+}
+
+.section-styles{
+    flex: 1.5;
+    margin-left: 5%;
+}
+
+.cropped{
+    width: 60%;
+    display: block;
     border-radius: 50%;
 }
